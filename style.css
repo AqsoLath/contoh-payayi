@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+	font-family: sans-serif;
+}
+
+body{
+	min-height: 100vh;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+
+}
+
+a{
+	width: 300px;
+	text-align: center;
+	margin-top: 10px;
+
+	padding: 1rem 2rem;
+	border: 2px solid #333;
+
+	color: #333;
+	text-decoration: none;
+	font-weight: bold;
+	border-radius: 10px;
+}
+
+.download{
+
+	background-color: lightblue;
+
+
+}
+
+.form{
+
+	background-color: lightgreen;
+
+
+}
